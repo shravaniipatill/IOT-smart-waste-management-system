@@ -328,7 +328,7 @@ Course:
 
 Student:
 
-**Shreeyash Paraj**
+**Shravani patil**
 
 Degree:
 
@@ -336,11 +336,11 @@ Degree:
 
 Organization:
 
-**Fourise Software Solutions Pvt. Ltd.**
+**Hi_trix infotech Pvt. Ltd.**
 
 Industry Mentor:
 
-**Mr. Om Gaikwad**
+**Mr. chandrakant shinde**
 
 Academic Year:
 
